@@ -4,7 +4,7 @@ function ghibli(){
     let ghibVal = document.querySelector('input').value
     let url = `https://pokeapi.co/api/v2/pokemon/${ghibVal}`
 
-    fetch(url) 
+    fetch(url.toLowerCase()) 
     .then(res => res.json()) // parse response as JSON 
     .then(data => { 
       console.log(data) 
