@@ -1,22 +1,16 @@
-# 📊 Project: Simple API 1
+![pokemon](https://user-images.githubusercontent.com/102938926/171503980-f12f8c47-f6a1-4b35-8ecc-f5bbc22c7661.gif)
 
-### Goal: Display data returned from an api
 
-### How to submit your code for review:
+# Pokemon API: <a target="_blank" href="https://simple-api-jamesphi.netlify.app/">Visit Here</a>
+<img src="complexapi2.gif" width="100%" alt="Travel App"/>
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=%7C&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=%7C&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=%7C&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
+This is a pokemon API that generates a sprite of a given user input pokemon.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Optimizations
+
+This one works pretty cleanly but I could include more information from the JSON to display about the pokemon.
+
+## Lessons Learned:
+
+Strengthened familiarity with APIs and fetching JSON and parsing it. Reinforced the Separation of Concerns. 
